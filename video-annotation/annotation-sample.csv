@@ -1,0 +1,11 @@
+start_time,end_time,label,description,confidence
+00:00,00:02,child_holds_toy,"The child holds a toy hockey player above the table.",High
+00:02,00:04,child_moves_toy_backward,"The child moves the toy backward across the table.",High
+00:05,00:07,camera_focuses_on_adult,"The camera focuses on an adult holding an open book.",High
+00:07,00:11,adult_reads_book,"The adult looks down at and reads an open brown book.",High
+00:12,00:15,adult_looks_at_child,"The adult looks toward the child.",High
+00:15,00:21,adult_smiles,"The adult smiles while holding the open book.",High
+00:22,00:24,camera_focuses_on_toy,"The camera focus shifts from the adult to the toy on the table.",High
+00:25,00:27,child_moves_toy_forward,"The child moves the toy forward across the table.",High
+00:27,00:29,child_moves_toy_upward,"The child moves the toy upward above the table.",Medium
+00:29,00:30,child_moves_toy_downward,"The child moves the toy downward toward the table.",Medium
