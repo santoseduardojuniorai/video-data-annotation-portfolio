@@ -13,32 +13,37 @@ No assumptions are made about events outside the camera frame.
 
 ## Labels
 
-### person_picks_object
+### child_holds_toy
 
-Use this label when a person lifts an object from a visible surface or location.
+Use this label when a child visibly holds a toy.
 
-### person_places_object
+### child_moves_toy_backward
 
-Use this label when a person puts an object onto a visible surface or location.
+Use this label when a child moves a toy backward across a visible surface.
 
-### person_moves_object
+### child_moves_toy_forward
 
-Use this label when a person changes the location of an object without clearly
-picking it up and placing it down as separate events.
+Use this label when a child moves a toy forward across a visible surface.
 
-### person_opens_object
+### adult_reads_book
 
-Use this label when a person opens a visible object, such as a book, box, door,
-or container.
+Use this label when an adult visibly looks at an open book for the purpose of reading.
 
-### person_closes_object
+### adult_looks_at_child
 
-Use this label when a person closes a visible object, such as a book, box, door,
-or container.
+Use this label when an adult turns or directs their gaze toward the child.
 
-### person_writes
+### adult_smiles
 
-Use this label when a person writes on paper or another visible writing surface.
+Use this label when an adult visibly smiles.
+
+### camera_focuses_on_adult
+
+Use this label when the camera focus or framing shifts to the adult.
+
+### camera_focuses_on_toy
+
+Use this label when the camera focus or framing shifts to the toy.
 
 ## Timestamp Rules
 
