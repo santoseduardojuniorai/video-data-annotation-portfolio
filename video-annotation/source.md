@@ -6,7 +6,7 @@
 - Search term used: person picks up object
 - Source URL: https://www.pexels.com/pt-br/video/livro-garoto-menino-rapaz-6565100/
 - Access date: 14 September 2026
-- License checked: [write Yes after checking the Pexels license page]
+- License checked: yes
 
 ## Use in this portfolio
 
